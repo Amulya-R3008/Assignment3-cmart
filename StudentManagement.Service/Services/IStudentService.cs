@@ -1,5 +1,5 @@
-﻿using StudentManagement.Models;
-namespace StudentManagement.Models.Services
+﻿using StudentManagement.Core.Models;
+namespace StudentManagement.Service.Services
 {
     public interface IStudentService
     {

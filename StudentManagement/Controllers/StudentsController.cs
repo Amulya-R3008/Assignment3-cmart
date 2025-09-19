@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using StudentManagement.Models;
-using StudentManagement.Models.Services;
+using StudentManagement.Core.Models;
+using StudentManagement.Service.Services;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace StudentManagement.Controllers
+namespace StudentManagement.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

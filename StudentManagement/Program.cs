@@ -1,7 +1,7 @@
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
-using StudentManagement.Models;
-using StudentManagement.Models.Services;
+using StudentManagement.Core.Models;
+using StudentManagement.Service.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

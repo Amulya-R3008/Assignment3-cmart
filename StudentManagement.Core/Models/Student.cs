@@ -2,7 +2,7 @@
 using MongoDB.Bson.Serialization.Attributes;
 
 
-namespace StudentManagement.Models
+namespace StudentManagement.Core.Models
 {
     [BsonIgnoreExtraElements]
     public class Student

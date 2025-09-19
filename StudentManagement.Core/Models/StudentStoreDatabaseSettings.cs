@@ -1,4 +1,4 @@
-﻿namespace StudentManagement.Models
+﻿namespace StudentManagement.Core.Models
 {
     public class StudentStoreDatabaseSettings : IStudentStoreDatabaseSettings
     {

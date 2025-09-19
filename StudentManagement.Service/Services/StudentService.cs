@@ -1,7 +1,7 @@
-﻿using StudentManagement.Models;
+﻿using StudentManagement.Core.Models;
 using MongoDB.Driver;
 
-namespace StudentManagement.Models.Services
+namespace StudentManagement.Service.Services
 {
     public class StudentService : IStudentService
     {
